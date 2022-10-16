@@ -1,1 +1,45 @@
 /* Write style code here*/
+/* Write style code here*/
+body {
+  margin: 0;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-style: normal;
+  background-color: rgb(154, 204, 180);
+}
+
+h4 {
+  margin-bottom: 40px;
+}
+form {
+  margin: auto;
+  margin-top: 50px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid rgb(12, 37, 39);
+  width: 30vw;
+  box-shadow: 0px 2px 7px rgb(196, 167, 113);
+}
+div {
+  margin: 1px;
+  padding: 5px;
+}
+input {
+  border: none !important;
+  border-bottom: 1px solid gray !important;
+  display: inline !important;
+  width: 95%;
+  margin-top: 10px;
+}
+
+#header {
+  background-color: rgb(70, 146, 165);
+  color: white;
+}
+/* input[type='Add Order'] {
+    width: 100px !important;
+    background-color: navy;
+    border-radius: 4px;
+    border: 1px solid orange;
+    color: cyan;
+    padding: 5px;
+} */
